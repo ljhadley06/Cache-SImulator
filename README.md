@@ -34,5 +34,22 @@ The cache is modeled as:
 - Each set contains multiple **lines (blocks)**
 
 
+## 🚀 How to Run
+
+Follow these steps to build and run the cache simulator on your machine.
+
+---
+
+### 1) Clone the Repository
+
+```bash
+git clone <your-repo-link>
+cd <your-repo-folder>
+
+### 3) Compile the Program
+
+```bash
+g++ cache_sim.cpp -o cache_sim
+Create a file named input.txt in the project directory:
 
 
